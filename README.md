@@ -1,6 +1,6 @@
-# This is our PUB/SUB project using Dapr
+# This is a PUB/SUB project using Dapr
 
-# Two python files - "Sub" acts as the backend subscriber server that recieves and "storeservice" acts as the publisher that sends hardcoded json inputs to "Sub"
+# Two Python files - "Sub" acts as the backend subscriber server that receives and "storeservice" acts as the publisher that sends hardcoded JSON inputs to "Sub"
 
 # Components folder includes our YAML config and pubsub file
 
